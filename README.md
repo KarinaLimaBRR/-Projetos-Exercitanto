@@ -1,20 +1,17 @@
-# Notifier
+📘 Exercícios de Fixação
 
-Projeto simples em **Java + Maven** para praticar **Orientação a Objetos**.  
+Este repositório (ou branch) reúne diversos exercícios práticos criados para ajudar na fixação dos principais conceitos estudados ao longo da jornada de aprendizado em Análise e Desenvolvimento de Sistemas e áreas relacionadas.
 
-## Objetivo
-- Enviar notificações via diferentes estratégias:
-  - **Email** (implementado com Jakarta Mail)
-  - **SMS** (simulado / mock)
+🎯 Objetivo
 
-## Estrutura
-- `Notifier.java` → interface base
-- `EmailNotifier.java` → envia emails
-- `SmsNotifier.java` → simula envio SMS
-- `NotificationService.java` → aplica o padrão Strategy
-- `App.java` → classe principal
+Consolidar o entendimento de conceitos teóricos por meio de prática.
 
-## Como rodar
-```bash
-mvn clean install
-mvn exec:java -Dexec.mainClass="com.example.App"
+Organizar exercícios de forma clara e reutilizável.
+
+Facilitar revisões rápidas antes de provas, projetos ou entrevistas.
+
+📝 Observações
+
+Os exercícios podem evoluir com o tempo, servindo como base para projetos maiores.
+
+O foco é no aprendizado, portanto podem existir diferentes soluções para o mesmo problema.
