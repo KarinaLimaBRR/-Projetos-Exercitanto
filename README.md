@@ -1,2 +1,12 @@
-# -Projetos-Exercitanto
-Esta branch tem como objetivo armazenar uma coleção de exercícios práticos voltados para reforçar e fixar os principais conceitos aprendidos ao longo dos estudos. O foco é manter exemplos organizados e reutilizáveis, permitindo revisões rápidas e facilitando a evolução do aprendizado.
+
+📘 Exercícios de Fixação
+
+Este repositório (ou branch) reúne diversos exercícios práticos criados para ajudar na fixação dos principais conceitos estudados ao longo da jornada de aprendizado em Análise e Desenvolvimento de Sistemas e áreas relacionadas.
+
+🎯 Objetivo
+
+Consolidar o entendimento de conceitos teóricos por meio de prática.
+
+Organizar exercícios de forma clara e reutilizável.
+
+Facilitar revisões rápidas antes de provas, projetos ou entrevistas.
